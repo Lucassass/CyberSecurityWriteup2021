@@ -1,10 +1,3 @@
-+++
-title = "Killer-Queen CTF: Obligatory Shark"
-date = "2021-10-29"
-aliases = ["ObligatoryShark"]
-[ author ]
-  name = "Lucas Sass Rósinberg"
-+++
 
 # Obligatory Shark
 
