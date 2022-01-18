@@ -1,10 +1,3 @@
-+++
-title = "Killer-Queen CTF: Broke College Students"
-date = "2021-10-29"
-aliases = ["BrokeCollegeStudents"]
-[ author ]
-  name = "Lucas Sass Rósinberg"
-+++
 
 # Broke College Students
 
