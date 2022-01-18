@@ -1,10 +1,3 @@
-+++
-title = "Killer-Queen CTF: She's A Killed Queen"
-date = "2021-10-29"
-aliases = ["ShesAKilledQueen"]
-[ author ]
-  name = "Lucas Sass Rósinberg"
-+++
 
 # She's A Killed Queen
 
