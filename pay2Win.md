@@ -1,10 +1,3 @@
-+++
-title = "BuckEye: Pay2win"
-date = "2021-10-23"
-aliases = ["Pay2win"]
-[ author ]
-  name = "Lucas Sass Rósinberg"
-+++
 
 # Pay2win
 
