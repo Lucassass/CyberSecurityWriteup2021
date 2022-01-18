@@ -1,10 +1,3 @@
-+++
-title = "Killer-Queen CTF: A Kind Of Magic"
-date = "2021-10-29"
-aliases = ["AKindOfMagic"]
-[ author ]
-  name = "Lucas Sass Rósinberg"
-+++
 
 # A Kind Of Magic
 
