@@ -1,10 +1,3 @@
-+++
-title = "CSAW: Password_checker"
-date = "2021-09-10"
-aliases = ["Password_checker"]
-[ author ]
-  name = "Lucas Sass Rósinberg"
-+++
 
 # Password_Checker:
 
