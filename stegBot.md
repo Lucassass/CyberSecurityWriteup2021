@@ -1,10 +1,3 @@
-+++
-title = "BuckEye: Stegbot"
-date = "2021-10-23"
-aliases = ["StegBot"]
-[ author ]
-  name = "Lucas Sass Rósinberg"
-+++
 
 # Stegbot
 
