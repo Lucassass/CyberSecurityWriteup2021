@@ -1,10 +1,3 @@
-+++
-title = "Killer-Queen CTF: I Want To Break Free"
-date = "2021-10-29"
-aliases = ["IWantToBreakFree"]
-[ author ]
-  name = "Lucas Sass Rósinberg"
-+++
 
 # I Want To Break Free
 
