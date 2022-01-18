@@ -1,10 +1,3 @@
-+++
-title = "Killer-Queen CTF: Tweety Birb"
-date = "2021-10-29"
-aliases = ["TweetyBirb"]
-[ author ]
-  name = "Lucas Sass Rósinberg"
-+++
 
 # Tweety Birb
 
